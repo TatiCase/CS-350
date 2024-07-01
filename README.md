@@ -11,7 +11,7 @@ I did a respectable job of planning the program's functionality and flow before 
 <h1>What tools and/or resources are you adding to your support network?</h1>
 I gained a great deal of knowledge about embedded systems and programming throughout the course of these projects. Before taking this class, I had no prior experience with this. I learned a lot about subjects, resources, and languages that I had never used before. I discovered that I needed to use a variety of resources to help me understand the material because there was so much new information for me to learn. The TI microcontroller documentation turned out to be a very helpful resource.
 
-<h1>What skills from this project will be particularly transferable to other projects and/or course work?<h1></h1>
+<h1>What skills from this project will be particularly transferable to other projects and/or course work?</h1>
 My ability to plan and think through a program's flow and divide it into manageable chunks has improved as a result of these projects. I will be able to utilize this extremely helpful skill in upcoming projects.
 
 <h1>How did you make this project maintainable, readable, and adaptable?</h1>
